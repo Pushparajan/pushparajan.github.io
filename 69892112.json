@@ -1,0 +1,27 @@
+{
+    "id": 69892112,
+    "properties": {
+        "FileName": "69892112-hindu-temple-singapore.jpg"
+    },
+    "created_by": {
+        "href": "https://pushparajan.github.io/69892112-Author.json",
+        "title": "The user who created the entity"
+    },
+    "created_on": "2022-03-29T11:04:55.038282Z",
+    "modified_by": {
+        "href": "https://pushparajan.github.io/69892112-Author.json",
+        "title": "The user who last modified the entity"
+    },
+    "renditions": {
+        "downloadOriginal": [
+            {
+                "href": "https://pushparajan.github.io/69892112-hindu-temple-singapore.jpg"
+            }
+        ],
+        "metadata": [
+            {
+                "href": "https://pushparajan.github.io/69892112-Metadata.json"
+            }
+        ]
+    }
+}
